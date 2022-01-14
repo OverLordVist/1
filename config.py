@@ -1,6 +1,6 @@
 import telebot
 
-TOKEN = '5092087929:AAFkZSlexif4MmPeXYHIwDL6AjKH-GzHXK8'
+TOKEN = '5046697350:AAFaQcFo4tyS9PaaMqowJB8UlDawiPVBmos'
 bot = telebot.TeleBot(TOKEN)
 
 constant_files_ids = {'all answers': 'BQACAgIAAxkBAAMXYeCool0e9PYO-hCRGS1ktEtYxL4AAtoVAAKAkgFLyZF4k5_An1IjBA',
